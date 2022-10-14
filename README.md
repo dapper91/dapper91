@@ -28,6 +28,11 @@ innovative software and services.
     <td><img alt="PyPI - Downloads" src="https://static.pepy.tech/personalized-badge/crontools?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads"></td>
   </tr>
   <tr>
+    <td><img src="https://github.com/dapper91/dapper91/raw/master/img/python.png" width="20" height="20" alt="Python" /></td>
+    <td><a href="https://github.com/dapper91/pydantic-xml">pydantic-xml</a></td>
+    <td><img alt="PyPI - Downloads" src="https://static.pepy.tech/personalized-badge/pydantic-xml?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads"></td>
+  </tr>
+  <tr>
     <td><img src="https://github.com/dapper91/dapper91/raw/master/img/rust.png" width="20" height="20" alt="Rust" /></td>
     <td><a href="https://github.com/dapper91/ext-sort-rs">ext-sort</a></td>
     <td><img alt="Crates.io - Downloads" src="https://img.shields.io/crates/d/ext-sort?color=blue&label=Downloads"></td>
