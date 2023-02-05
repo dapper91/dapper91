@@ -9,6 +9,11 @@ innovative software and services.
 <table>
   <tr>
     <td><img src="https://github.com/dapper91/dapper91/raw/master/img/python.png" width="20" height="20" alt="Python" /></td>
+    <td><a href="https://github.com/dapper91/pydantic-xml">pydantic-xml</a></td>
+    <td><img alt="PyPI - Downloads" src="https://static.pepy.tech/personalized-badge/pydantic-xml?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/dapper91/dapper91/raw/master/img/python.png" width="20" height="20" alt="Python" /></td>
     <td><a href="https://github.com/dapper91/pjrpc">pjrpc</a></td>
     <td><img alt="PyPI - Downloads" src="https://static.pepy.tech/personalized-badge/pjrpc?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads"></td>
   </tr>
@@ -26,11 +31,6 @@ innovative software and services.
     <td><img src="https://github.com/dapper91/dapper91/raw/master/img/python.png" width="20" height="20" alt="Python" /></td>
     <td><a href="https://github.com/dapper91/crontools">crontools</a></td>
     <td><img alt="PyPI - Downloads" src="https://static.pepy.tech/personalized-badge/crontools?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/dapper91/dapper91/raw/master/img/python.png" width="20" height="20" alt="Python" /></td>
-    <td><a href="https://github.com/dapper91/pydantic-xml">pydantic-xml</a></td>
-    <td><img alt="PyPI - Downloads" src="https://static.pepy.tech/personalized-badge/pydantic-xml?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/dapper91/dapper91/raw/master/img/rust.png" width="20" height="20" alt="Rust" /></td>
